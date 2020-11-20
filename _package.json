@@ -1,0 +1,14 @@
+{
+  "name": "cources",
+  "version": "1.0.0",
+  "description": "bla",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.11.0"
+  }
+}
